@@ -29,8 +29,10 @@ A modern, responsive React application built with Vite and Tailwind CSS. Feature
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/react-task-manager.git
+   git clone [https://github.com/YOUR_USERNAME/react-task-manager.git](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-reubenm597.git)
    cd react-task-manager
+
+
 Install dependencies
 
 bash
