@@ -42,6 +42,8 @@ npm run dev
 Open your browser
 Navigate to http://localhost:3000
 
+
+
 📁 Project Structure
 text
 src/
@@ -59,6 +61,12 @@ src/
 │   └── jsonPlaceholder.js
 ├── App.jsx             # Main application component
 └── main.jsx            # Application entry point
+
+
+
+
+
+
 🎯 Available Scripts
 npm run dev - Start development server
 
